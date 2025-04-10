@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Log" section_id="6b1d51ca83b022107f44ad9cdfda1ef7" sys_domain="global" table="x_cdltd_loaner_request" version="3" view="ESS">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2025-04-10 15:31:46</sys_created_on>
+            <sys_id>ab1d91ca83b022107f44ad9cdfda1e18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_request" sys_domain="global" view="2758a1409f3012107f44dab74024ab9e">6b1d51ca83b022107f44ad9cdfda1ef7</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2025-04-10 15:31:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2025-04-10 15:31:46</sys_created_on>
+            <sys_id>231d91ca83b022107f44ad9cdfda1e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_request" sys_domain="global" view="2758a1409f3012107f44dab74024ab9e">6b1d51ca83b022107f44ad9cdfda1ef7</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2025-04-10 15:31:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2025-04-10 15:31:46</sys_created_on>
+            <sys_id>a71d91ca83b022107f44ad9cdfda1e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_request" sys_domain="global" view="2758a1409f3012107f44dab74024ab9e">6b1d51ca83b022107f44ad9cdfda1ef7</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2025-04-10 15:31:46</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_cdltd_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2025-04-10 15:31:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b1d51ca83b022107f44ad9cdfda1ef7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner request" source="x_cdltd_loaner">3065c57583b422107f44ad9cdfda1e52</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner request">3065c57583b422107f44ad9cdfda1e52</sys_scope>
+            <sys_update_name>sys_ui_section_6b1d51ca83b022107f44ad9cdfda1ef7</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2025-04-10 15:31:45</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">2758a1409f3012107f44dab74024ab9e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner request">3065c57583b422107f44ad9cdfda1e52</application>
+        <file_path/>
+        <instance_id>fc5cc2c197306a500b9b74b71153afbd</instance_id>
+        <instance_name>tri-apr-2062-0007</instance_name>
+        <name>sys_ui_section_6b1d51ca83b022107f44ad9cdfda1ef7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Log" section_id="6b1d51ca83b022107f44ad9cdfda1ef7" sys_domain="global" table="x_cdltd_loaner_request" version="3" view="ESS"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>chuck.tomasi</sys_created_by><sys_created_on>2025-04-10 15:31:46</sys_created_on><sys_id>ab1d91ca83b022107f44ad9cdfda1e18</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_request" sys_domain="global" view="2758a1409f3012107f44dab74024ab9e">6b1d51ca83b022107f44ad9cdfda1ef7</sys_ui_section><sys_updated_by>chuck.tomasi</sys_updated_by><sys_updated_on>2025-04-10 15:31:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>1</position><sys_created_by>chuck.tomasi</sys_created_by><sys_created_on>2025-04-10 15:31:46</sys_created_on><sys_id>231d91ca83b022107f44ad9cdfda1e19</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_request" sys_domain="global" view="2758a1409f3012107f44dab74024ab9e">6b1d51ca83b022107f44ad9cdfda1ef7</sys_ui_section><sys_updated_by>chuck.tomasi</sys_updated_by><sys_updated_on>2025-04-10 15:31:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>2</position><sys_created_by>chuck.tomasi</sys_created_by><sys_created_on>2025-04-10 15:31:46</sys_created_on><sys_id>a71d91ca83b022107f44ad9cdfda1e19</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_request" sys_domain="global" view="2758a1409f3012107f44dab74024ab9e">6b1d51ca83b022107f44ad9cdfda1ef7</sys_ui_section><sys_updated_by>chuck.tomasi</sys_updated_by><sys_updated_on>2025-04-10 15:31:46</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Log</caption><header>false</header><name>x_cdltd_loaner_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>chuck.tomasi</sys_created_by><sys_created_on>2025-04-10 15:31:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b1d51ca83b022107f44ad9cdfda1ef7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_loaner_request</sys_name><sys_overrides/><sys_package display_value="Loaner request" source="x_cdltd_loaner">3065c57583b422107f44ad9cdfda1e52</sys_package><sys_policy/><sys_scope display_value="Loaner request">3065c57583b422107f44ad9cdfda1e52</sys_scope><sys_update_name>sys_ui_section_6b1d51ca83b022107f44ad9cdfda1ef7</sys_update_name><sys_updated_by>chuck.tomasi</sys_updated_by><sys_updated_on>2025-04-10 15:31:45</sys_updated_on><sys_user/><title>false</title><view display_value="Self Service" name="ess">2758a1409f3012107f44dab74024ab9e</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1900176805</payload_hash>
+        <record_name>Request</record_name>
+        <reverted_from/>
+        <source>b94bd5f1833822107f44ad9cdfda1edf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2025-04-10 15:31:46</sys_created_on>
+        <sys_id>bb1d91ca83b022107f44ad9cdfda1e1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1962054200f0000001</sys_recorded_at>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2025-04-10 15:31:46</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>231d91caeeb02210fbde3325962cfe1b</update_guid>
+        <update_guid_history>231d91caeeb02210fbde3325962cfe1b:-1900176805</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2025-04-10 15:35:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1a45a86606cf42cc8c95beeead4e8290</sys_id>
+        <sys_metadata>6b1d51ca83b022107f44ad9cdfda1ef7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="Loaner request" source="x_cdltd_loaner">3065c57583b422107f44ad9cdfda1e52</sys_package>
+        <sys_parent display_value="Request">ebc6c1f983b422107f44ad9cdfda1e33</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner request">3065c57583b422107f44ad9cdfda1e52</sys_scope>
+        <sys_scope_delete display_value="">31debcd3a5b843d09e07cbf5e6274b39</sys_scope_delete>
+        <sys_update_name>sys_ui_section_6b1d51ca83b022107f44ad9cdfda1ef7</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_6b1d51ca83b022107f44ad9cdfda1ef7">bb1d91ca83b022107f44ad9cdfda1e1b</sys_update_version>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2025-04-10 15:35:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
