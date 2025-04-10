@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view">
+    <sysrule_view action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <device_type>browser</device_type>
+        <match_conditions>ALL</match_conditions>
+        <name>User sees only ESS view</name>
+        <order>100</order>
+        <overrides_user_preference>true</overrides_user_preference>
+        <script><![CDATA[(function overrideView(view, is_list) {
+
+    if (!gs.hasRole('x_cdltd_loaner_req.admin')) {
+        answer = 'ess'; //  set the new view to answer
+    }
+
+})(view, is_list);]]></script>
+        <sys_class_name>sysrule_view</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2025-04-10 20:35:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9682ea42833822107f44ad9cdfda1e94</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>User sees only ESS view</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner request" source="x_cdltd_loaner">3065c57583b422107f44ad9cdfda1e52</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner request">3065c57583b422107f44ad9cdfda1e52</sys_scope>
+        <sys_update_name>sysrule_view_9682ea42833822107f44ad9cdfda1e94</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2025-04-10 20:37:13</sys_updated_on>
+        <table>x_cdltd_loaner_request</table>
+        <view/>
+    </sysrule_view>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>9682ea42833822107f44ad9cdfda1e94</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2025-04-10 20:35:29</sys_created_on>
+        <sys_id>7ca26642833822107f44ad9cdfda1e76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2025-04-10 20:35:29</sys_updated_on>
+        <table>sysrule_view</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
