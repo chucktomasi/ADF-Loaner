@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="ebc6c1f983b422107f44ad9cdfda1e33" extends="task" label="Request" max_length="40" name="x_cdltd_loaner_request" type="collection">
         <element label="Other" max_length="40" name="other" type="string"/>
+        <element label="Return reminder" max_length="255" name="return_reminder" type="glide_date_time"/>
         <element choice="3" default="cmdb_ci_computer" label="Item type" max_length="40" name="item_type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Laptop" sequence="0" value="cmdb_ci_computer"/>
@@ -9,6 +10,7 @@
             </choice>
         </element>
         <element label="Location to be used" max_length="40" name="location_to_be_used" type="string"/>
+        <element label="Overdue count" max_length="255" name="overdue_count" type="integer"/>
         <element label="Start date" mandatory="true" max_length="255" name="start_date" type="glide_date_time"/>
         <element choice="3" default="ny" label="Depot" max_length="40" name="depot" type="choice">
             <choice>
@@ -24,5 +26,6 @@
         <element label="Pick up reminder" max_length="255" name="pick_up_reminder" type="glide_date_time"/>
         <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
         <element label="End date" mandatory="true" max_length="255" name="end_date" type="glide_date_time"/>
+        <element label="Overdue reminder" max_length="255" name="overdue_reminder" type="glide_date_time"/>
     </element>
 </database>

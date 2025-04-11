@@ -4,29 +4,71 @@
             <element>pick_up_reminder</element>
             <position>0</position>
             <sys_created_by>chuck.tomasi</sys_created_by>
-            <sys_created_on>2025-04-11 16:42:58</sys_created_on>
-            <sys_id>1c073e5a833422107f44ad9cdfda1ef8</sys_id>
+            <sys_created_on>2025-04-11 18:42:37</sys_created_on>
+            <sys_id>c962dbda83b422107f44ad9cdfda1e85</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_request" sys_domain="global" view="Default view">14073e5a833422107f44ad9cdfda1eef</sys_ui_section>
             <sys_updated_by>chuck.tomasi</sys_updated_by>
-            <sys_updated_on>2025-04-11 16:42:58</sys_updated_on>
+            <sys_updated_on>2025-04-11 18:42:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>return_reminder</element>
+            <position>1</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2025-04-11 18:42:37</sys_created_on>
+            <sys_id>8562dbda83b422107f44ad9cdfda1e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_request" sys_domain="global" view="Default view">14073e5a833422107f44ad9cdfda1eef</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2025-04-11 18:42:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>chuck.tomasi</sys_created_by>
-            <sys_created_on>2025-04-11 16:42:58</sys_created_on>
-            <sys_id>d4073e5a833422107f44ad9cdfda1ef9</sys_id>
+            <sys_created_on>2025-04-11 18:42:37</sys_created_on>
+            <sys_id>0d62dbda83b422107f44ad9cdfda1e86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_request" sys_domain="global" view="Default view">14073e5a833422107f44ad9cdfda1eef</sys_ui_section>
             <sys_updated_by>chuck.tomasi</sys_updated_by>
-            <sys_updated_on>2025-04-11 16:42:58</sys_updated_on>
+            <sys_updated_on>2025-04-11 18:42:37</sys_updated_on>
             <sys_user/>
             <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>overdue_reminder</element>
+            <position>3</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2025-04-11 18:42:37</sys_created_on>
+            <sys_id>8162dbda83b422107f44ad9cdfda1e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_request" sys_domain="global" view="Default view">14073e5a833422107f44ad9cdfda1eef</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2025-04-11 18:42:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>overdue_count</element>
+            <position>4</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2025-04-11 18:42:37</sys_created_on>
+            <sys_id>0962dbda83b422107f44ad9cdfda1e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_request" sys_domain="global" view="Default view">14073e5a833422107f44ad9cdfda1eef</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2025-04-11 18:42:37</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Reminders</caption>
