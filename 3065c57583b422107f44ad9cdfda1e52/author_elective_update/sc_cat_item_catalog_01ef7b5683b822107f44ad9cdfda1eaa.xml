@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Loaner request">4def7b5683b822107f44ad9cdfda1ea7</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2025-04-11 22:01:24</sys_created_on>
+        <sys_id>01ef7b5683b822107f44ad9cdfda1eaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Loaner request</sys_name>
+        <sys_package display_value="Loaner request" source="x_cdltd_loaner">3065c57583b422107f44ad9cdfda1e52</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner request">3065c57583b422107f44ad9cdfda1e52</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_01ef7b5683b822107f44ad9cdfda1eaa</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2025-04-11 22:01:24</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner request">3065c57583b422107f44ad9cdfda1e52</application>
+        <file_path/>
+        <instance_id>fc5cc2c197306a500b9b74b71153afbd</instance_id>
+        <instance_name>tri-apr-2062-0007</instance_name>
+        <name>sc_cat_item_catalog_01ef7b5683b822107f44ad9cdfda1eaa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Loaner request">4def7b5683b822107f44ad9cdfda1ea7</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>chuck.tomasi</sys_created_by><sys_created_on>2025-04-11 22:01:24</sys_created_on><sys_id>01ef7b5683b822107f44ad9cdfda1eaa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Loaner request</sys_name><sys_package display_value="Loaner request" source="x_cdltd_loaner">3065c57583b422107f44ad9cdfda1e52</sys_package><sys_policy/><sys_scope display_value="Loaner request">3065c57583b422107f44ad9cdfda1e52</sys_scope><sys_update_name>sc_cat_item_catalog_01ef7b5683b822107f44ad9cdfda1eaa</sys_update_name><sys_updated_by>chuck.tomasi</sys_updated_by><sys_updated_on>2025-04-11 22:01:24</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1655513301</payload_hash>
+        <record_name>Service Catalog.Loaner request</record_name>
+        <reverted_from/>
+        <source>b94bd5f1833822107f44ad9cdfda1edf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2025-04-11 22:01:24</sys_created_on>
+        <sys_id>85efb39683b822107f44ad9cdfda1e21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19626df35f40000001</sys_recorded_at>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2025-04-11 22:01:24</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>89efb396fab82210c46bb4cbd68d6f20</update_guid>
+        <update_guid_history>89efb396fab82210c46bb4cbd68d6f20:1655513301</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Loaner request">bbfff79683b822107f44ad9cdfda1e61</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2025-04-11 22:01:52</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>39bd006b138d4bbe99fb4aec1c7e9b21</sys_id>
+        <sys_metadata>01ef7b5683b822107f44ad9cdfda1eaa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Loaner request</sys_name>
+        <sys_package display_value="Loaner request" source="x_cdltd_loaner">3065c57583b422107f44ad9cdfda1e52</sys_package>
+        <sys_parent display_value="">4def7b5683b822107f44ad9cdfda1ea7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner request">3065c57583b422107f44ad9cdfda1e52</sys_scope>
+        <sys_scope_delete display_value="">31debcd3a5b843d09e07cbf5e6274b39</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_01ef7b5683b822107f44ad9cdfda1eaa</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_01ef7b5683b822107f44ad9cdfda1eaa">85efb39683b822107f44ad9cdfda1e21</sys_update_version>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2025-04-11 22:01:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
